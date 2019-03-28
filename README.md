@@ -4,7 +4,7 @@ Institute Management System for the Mindrich College.
 
 This project is Web-Based application for Institute Management system (Mindrich College).
 
-Followed the MVC architecture.
+Followed Architecture - MVC.
 
 Used JSP,Servlets,MySQL,Jasper Reports,Git,JavaScript,HTML5,CSS.. to build this project.
 
